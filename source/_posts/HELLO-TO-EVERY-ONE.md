@@ -1,5 +1,5 @@
 ---
-title: HELLO-TO-EVERONE
+title: HELLO-TO-EVERYONE
 date: 2022-08-30 11:18:01
 tags:
 ---
