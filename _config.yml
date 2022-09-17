@@ -152,3 +152,8 @@ minify:
 autoprefixer:
   exclude:
     - '*.min.css'
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
