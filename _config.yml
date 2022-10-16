@@ -6,7 +6,7 @@
 title: xxxxxxxb's-blog
 subtitle: '我布道啊'
 description: '我布道啊'
-keywords:
+keywords: 'xxxxxxxb'
 author: xxxxxxxb
 language: zh-cn
 timezone: ''
@@ -148,7 +148,7 @@ minify:
 # 本文链接： https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/dependents/
 # 版权声明： 本站所有文章除特别声明外，均采用 (CC)BY-NC-SA 许可协议。转载请注明出处！
 
-	
+
 autoprefixer:
   exclude:
     - '*.min.css'
